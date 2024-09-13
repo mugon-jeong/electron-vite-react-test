@@ -27,6 +27,7 @@
  */
 
 import "./renderer/index";
+import "./index.css";
 
 declare global {
   namespace JSX {
